@@ -2,7 +2,6 @@ const {StyleSheet} = require('react-native');
 
 export default StyleSheet.create({
   container: {
-    display: 'flex',
     flexDirection: 'column',
     alignContent: 'center',
   },
@@ -20,10 +19,9 @@ export default StyleSheet.create({
     height: 200,
   },
   buttonContainer: {
-    padding: 100,
-    display: 'flex',
     flexDirection: 'row',
-    alignContent: 'center',
+    justifyContent: 'space-around',
+    paddingVertical: 40,
   },
   buttonIcon: {
     width: 50,

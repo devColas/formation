@@ -4,7 +4,7 @@ import styles from './SquareButtonStyle';
 import PropTypes from 'prop-types';
 
 const SquareButton = props => {
-  console.log(props);
+  //console.log(props);
   return (
     <TouchableHighlight
       onPress={props.onPress}

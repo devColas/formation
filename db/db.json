@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "title": "Menhir en chocolat",
+      "price": 5.42,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoduanZMKRAhk4G6md4Pr7aeVu7-2A5ot-hhRvjFDU34i8QX_e5Vljsap9FrbMWTRmHROXaaU&usqp=CAc",
+      "description": "Chocolat en forme de menhir ..."
+    },
+    {
+      "id": 1,
+      "title": "granite triskel",
+      "price": 5.5,
+      "img": "https://www.patisseriebretonne.fr/Files/119625/Img/08/Triskell.jpg",
+      "description": "xxxxx x x xxxx"
+    }
+  ]
+}
